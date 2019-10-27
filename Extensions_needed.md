@@ -6,5 +6,7 @@ it doesn't support next level to change this we had to add them to dictionary.
 
 3. There are some rules which we can add presently it only supports for money based speech text but we if we want to convert any any number in speech to number form we can just add another function but parsing technique will be different.Without disturbing any previous function we can add them and get the modified text
 
-4. I used re module to identify the required text from the speech_text.
+4. I used re module to identify the required text from the speech_text.As the speech_text becomes more and more lengthy there will be more parsing techniques that should be added to the library like if we have number entities  two years and fifty five thousand dollars the entities should be treated seperately and then convert them.
+
+5. In case of quotes of there are abbreviations we can easily remove the spaces but if there is text and abbreviations then we have to again consider the normal text with spaces and abbreviations without spaces which we can add making another funcion are making wraper function for the functions which is already designed.
 
