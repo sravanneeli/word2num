@@ -1,4 +1,3 @@
-
 1. I have created a small module for the task given.Basically I have created using OOPS concepts so if any new requirements are 
 required we can make wraper functions for that.
 
